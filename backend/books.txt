@@ -1,0 +1,3 @@
+1|Cinderalla|Elizabeth Rudnick|Uncategorised|0606359192|true
+2|Game theory|Guillermo Owen|Uncategorised|9788131202845|false
+3|The Alchemist, 1612|Ben Jonson|Uncategorised|1496184971|true

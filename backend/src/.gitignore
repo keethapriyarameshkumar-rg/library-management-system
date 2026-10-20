@@ -1,0 +1,11 @@
+
+# Java compiled files
+backend/out/
+*.class
+
+# IDE files
+.vscode/
+.idea/
+
+# Secrets
+.env
